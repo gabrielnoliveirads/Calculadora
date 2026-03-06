@@ -1,15 +1,15 @@
-# 🧮 Calculadora em Python
+# Calculadora em Python
 
 Este projeto é uma calculadora desenvolvida em **Python**, com duas versões:
 
-- 💻 Versão em **terminal (CLI)**
-- 🖥️ Versão com **interface gráfica utilizando Tkinter**
+- Versão em **terminal (CLI)**
+- Versão com **interface gráfica utilizando Tkinter**
 
 O objetivo do projeto foi praticar conceitos fundamentais da linguagem Python, lógica de programação e desenvolvimento de interfaces gráficas simples.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 A calculadora permite realizar as seguintes operações:
 
